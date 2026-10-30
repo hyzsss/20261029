@@ -1,0 +1,136 @@
+2026-10-30 08:21:29 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:21:35 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:23:04 [INFO] __main__ (server.py:35): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:23:04 [ERROR] __main__ (server.py:58): 异常: RunnableWithMessageHistory.__init__() missing 1 required positional argument: 'get_session_history'
+2026-10-30 08:24:17 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:24:27 [INFO] __main__ (server.py:35): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:24:27 [ERROR] __main__ (server.py:58): 异常: RedisChatMessageHistory.__init__() got an unexpected keyword argument 'redis_url'
+2026-10-30 08:24:55 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:25:02 [INFO] __main__ (server.py:35): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:25:03 [ERROR] __main__ (server.py:58): 异常: Expected mapping type as input to ChatPromptTemplate. Received <class 'list'>.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT 
+2026-10-30 08:28:02 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:28:06 [INFO] __main__ (server.py:35): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:28:06 [ERROR] __main__ (server.py:58): 异常: Expected mapping type as input to ChatPromptTemplate. Received <class 'list'>.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT 
+2026-10-30 08:30:34 [INFO] __main__ (server.py:18): 启动服务，监听端口 8000
+2026-10-30 08:30:40 [INFO] __main__ (server.py:35): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:30:40 [ERROR] __main__ (server.py:58): 异常: Expected mapping type as input to ChatPromptTemplate. Received <class 'list'>.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT 
+2026-10-30 08:33:24 [INFO] __main__ (server.py:19): 启动服务，监听端口 8000
+2026-10-30 08:33:38 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:33:39 [ERROR] __main__ (server.py:59): 异常: Expected mapping type as input to ChatPromptTemplate. Received <class 'list'>.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT 
+2026-10-30 08:49:32 [INFO] __main__ (server.py:19): 启动服务，监听端口 8000
+2026-10-30 08:49:45 [INFO] __main__ (server.py:19): 启动服务，监听端口 8000
+2026-10-30 08:50:04 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:50:06 [INFO] __main__ (server.py:53): 模型返回成功
+2026-10-30 08:50:52 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:50:54 [INFO] __main__ (server.py:53): 模型返回成功
+2026-10-30 08:51:54 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:51:58 [INFO] __main__ (server.py:53): 模型返回成功
+2026-10-30 08:52:18 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:52:19 [INFO] __main__ (server.py:53): 模型返回成功
+2026-10-30 08:52:33 [INFO] __main__ (server.py:36): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 08:52:35 [INFO] __main__ (server.py:53): 模型返回成功
+2026-10-30 10:21:53 [INFO] __main__ (server.py:36): 启动服务，监听端口 8000
+2026-10-30 10:22:12 [INFO] __main__ (server.py:53): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:22:12 [INFO] __main__ (server.py:56): 会话ID: 001
+2026-10-30 10:22:12 [ERROR] __main__ (server.py:90): 异常: cannot access local variable 'abstract' where it is not associated with a value
+2026-10-30 10:30:35 [INFO] __main__ (server.py:37): 启动服务，监听端口 8000
+2026-10-30 10:30:50 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:30:50 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:30:51 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:31:09 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:31:09 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:31:12 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:31:17 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:31:17 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:31:20 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:31:49 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:31:49 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:31:53 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:32:56 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:32:56 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:32:58 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:33:04 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:33:04 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:33:06 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:33:06 [ERROR] __main__ (server.py:93): 异常: Message dict must contain 'role' and 'content' keys, got {'system': '请将以下对话内容进行摘要压缩，以便保留关键信息并减少消息数量。'}
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/MESSAGE_COERCION_FAILURE 
+2026-10-30 10:34:05 [INFO] __main__ (server.py:37): 启动服务，监听端口 8000
+2026-10-30 10:34:15 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:34:15 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:34:17 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:34:18 [INFO] __main__ (server.py:77): 压缩模型返回成功
+2026-10-30 10:34:18 [INFO] __main__ (server.py:83): 会话 001 超过 20 条消息，已压缩历史对话
+2026-10-30 10:38:18 [INFO] __main__ (server.py:37): 启动服务，监听端口 8000
+2026-10-30 10:38:34 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:38:34 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:38:36 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:38:52 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:38:52 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:38:54 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:39:07 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:39:07 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:39:10 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:39:26 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:39:26 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:39:28 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:39:41 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:39:41 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:39:46 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:10 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:40:10 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:40:12 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:21 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:40:21 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:40:23 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:25 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:40:25 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:40:27 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:37 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:40:37 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:40:40 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:56 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:40:56 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:40:58 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:40:59 [INFO] __main__ (server.py:77): 压缩模型返回成功
+2026-10-30 10:40:59 [INFO] __main__ (server.py:83): 会话 001 超过 20 条消息，已压缩历史对话
+2026-10-30 10:41:11 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:41:11 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:41:13 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:41:20 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:41:20 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:41:22 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:41:31 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:41:31 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:41:34 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:41:42 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:41:42 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:41:45 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:42:08 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:42:08 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:42:11 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:55:50 [INFO] __main__ (server.py:37): 启动服务，监听端口 8000
+2026-10-30 10:55:57 [INFO] __main__ (server.py:37): 启动服务，监听端口 8000
+2026-10-30 10:56:51 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:56:51 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:56:53 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:57:03 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:57:03 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:57:05 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:57:09 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:57:09 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:57:12 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:57:37 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:57:37 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:57:40 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:57:52 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:57:52 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:57:54 [INFO] __main__ (server.py:72): 模型返回成功
+2026-10-30 10:57:55 [INFO] __main__ (server.py:77): 压缩模型返回成功
+2026-10-30 10:57:55 [INFO] __main__ (server.py:83): 会话 001 超过 20 条消息，已压缩历史对话
+2026-10-30 10:58:20 [INFO] __main__ (server.py:54): 接收到请求，调用模型 deepseek-flash 
+2026-10-30 10:58:20 [INFO] __main__ (server.py:57): 会话ID: 001
+2026-10-30 10:58:22 [INFO] __main__ (server.py:72): 模型返回成功
